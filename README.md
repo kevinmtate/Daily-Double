@@ -3,6 +3,7 @@
 This project is for daily coding challenges.
 Named "Daily Double" because of the data type 'double' in Java... get it lol
 
+
 ### 27 July 2019
 
 Write a javascript function that takes an array of numbers and a target number. The function 
