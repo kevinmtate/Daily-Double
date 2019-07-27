@@ -3,8 +3,8 @@
 This project is for daily coding challenges.
 Named "Daily Double" because of the data type 'double' in Java... get it lol
 
-## TODAYS:
-* 27 July 2019 *
+
+### 27 July 2019
 
 Write a javascript function that takes an array of numbers and a target number. The function 
 should find two different numbers in the array that, when added together, give the target number. 
