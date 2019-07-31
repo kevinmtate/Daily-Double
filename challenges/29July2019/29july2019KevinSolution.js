@@ -51,7 +51,7 @@ const convertHexToRGB = (input) => {
 
     for (let i = 0; i < input.length; i += 2) {
       const firstVal = input[i];
-      const secondVal = input[i];
+      const secondVal = input[i+1];
       array.push(charToNumber(firstVal) * 16 + charToNumber(secondVal));
     }
 
